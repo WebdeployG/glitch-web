@@ -1,12 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.f98c856c.css",
-    "main.js": "/static/js/main.caed3c84.js",
-    "static/media/testImage.png": "/static/media/testImage.960fdc52ec8987a690b2.png",
+    "main.js": "/static/js/main.55e24f59.js",
+    "static/media/1._Pocket_leather_bag.png": "/static/media/1._Pocket_leather_bag.c6995b8cb65306a8158b.png",
+    "static/media/5._leather_bag_pocket.png": "/static/media/5._leather_bag_pocket.7c2d58d633785ae00340.png",
+    "static/media/3._Duffel_suitcase.png": "/static/media/3._Duffel_suitcase.cedc0a686ac417b767d5.png",
+    "static/media/header_pic.jpg": "/static/media/header_pic.09eba7bed8572164124a.jpg",
+    "static/media/2._Fashion_handbag.jpg": "/static/media/2._Fashion_handbag.b60e80a83008e0fe6f65.jpg",
+    "static/media/4._White_handbag.jpg": "/static/media/4._White_handbag.1d5317ba04498e2ae2e0.jpg",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.f98c856c.css",
-    "static/js/main.caed3c84.js"
+    "static/js/main.55e24f59.js"
   ]
 }
