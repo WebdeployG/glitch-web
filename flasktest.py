@@ -5,6 +5,8 @@ app = Flask(__name__,static_folder='build/static', template_folder='build')
 
 @app.route('/home/<name>')
 def home(name):
+    with open('visitor.csv','a') as file:
+        file.write(f'{name},{ctime(time())}, \n')
     return 'name registrered'
 
 @app.route('/normal/<name>/<sharebutton>')
